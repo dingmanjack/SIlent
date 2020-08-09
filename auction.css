@@ -1,0 +1,47 @@
+@charset "UTF-8";
+.header {
+	text-align: center;
+	text-decoration-color: antiquewhite;
+	
+	
+}
+.header {
+}
+.item1 {
+	
+}
+.item1 .Item.Name {
+	position: static;
+	font-size: large;
+	font-weight: bolder;
+	font-style: normal;
+	left: 200px;
+	color: #87674B;
+	;
+}
+.item1 .item {
+	float: left;
+}
+.item1 .bid.now {
+	text-align: right;
+	margin-left: 0px;
+	margin-bottom: 100px;
+	margin-right: 100px;
+}
+.item1 .Current.Auction {
+align-content: left
+	
+}
+.item1 .Current.Auction a {
+	padding-left: 30px;
+	padding-top: 40px;
+	text-align: left;		
+}
+.item1 .current {
+}
+body header {
+	text-align: center;
+	clear: both;
+}
+.Item {
+}
